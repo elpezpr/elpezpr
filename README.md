@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F77C39&width=435&lines=Welcome+to+my+github!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=600&color=F77C39&width=435&lines=Welcome+to+my+github!;%3C%2F%3E+Web+Developer+%3C%2F%3E)](https://git.io/typing-svg)
 
 # 📜 About Me:
 I’m a Front-End Developer focused on creating seamless, interactive web experiences. With a strong foundation in HTML, CSS, JavaScript, and React. I also have experience working with Java, MySQL, and RESTful APIs, giving me a broader understanding of back-end integration.
