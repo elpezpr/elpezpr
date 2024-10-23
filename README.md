@@ -45,6 +45,52 @@ I’m a Front-End Developer focused on creating seamless, interactive web experi
   </tbody>
 </table>
 
+<table align="center">
+  <thead>
+    <tr>
+      <th>React</th>
+      <th>NodeJS</th>
+      <th>Spring</th>
+      <th>Bootstrap</th>
+   </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>
+        <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="40" height="40" />
+      </td>
+      <td>
+        <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" width="55" height="55" style="max-width: 100%;">
+      </td>
+      <td>
+        <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original-wordmark.svg" width="55" height="55" style="max-width: 100%;">
+      </td>
+      <td align="center">
+        <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original-wordmark.svg" width="55" height="55" style="max-width: 100%;">
+      </td>
+    </tr>
+  </tbody>
+</table>
+
+<table align="center">
+  <thead>
+    <tr>
+      <th>MySQL</th>
+      <th>MongoDB</th>
+    </tr>
+  </thead>
+  <body>
+    <tr>
+      <td align="center">
+        <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="40" height="40" />
+      </td>
+       <td align="center">
+         <img src="https://skillicons.dev/icons?i=mongodb" width="40" height="40" />
+       </td>
+    </tr>
+  </body>
+</table>
+
 [![](https://visitcount.itsvg.in/api?id=elpezpr&icon=4&color=0)](https://visitcount.itsvg.in)
 
 
