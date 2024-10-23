@@ -91,8 +91,6 @@ I’m a Front-End Developer focused on creating seamless, interactive web experi
   </body>
 </table>
 
-[![](https://visitcount.itsvg.in/api?id=elpezpr&icon=4&color=0)](https://visitcount.itsvg.in)
-
 
 
 
